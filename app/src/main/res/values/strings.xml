@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="txt_valor1">Primer valor</string>
+    <string name="txt_valor2">Segundo valor</string>
+    <string name="buton">Dirigir</string>
+    <string name="buton2">REGRESAR</string>
+    <string name="tv3">Multiplicar</string>
+    <string name="tv1">Sumar</string>
+    <string name="tv2">Restar</string>
+
+
+</resources>
